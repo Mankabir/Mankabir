@@ -51,7 +51,7 @@ I am a Data Analyst with a knack for turning data into insightful stories that c
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/mankabir-rai-58ab44160/) 
-[![Medium](https://img.shields.io/badge/-Medium-333333?style=flat&logo=medium)](https://medium.com/@mankabir)
+[![Medium](https://img.shields.io/badge/-Medium-333333?style=flat&logo=medium)]
 
 
 
