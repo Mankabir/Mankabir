@@ -36,7 +36,9 @@ I am a Data Analyst with a knack for turning data into insightful stories that c
    <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB">
 
    
-* **Cloud Computing:** 
+* **Cloud Computing:**
+   <img src="https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure&logoColor=0078D4" alt="Azure">
+   <img src="https://img.shields.io/badge/-Azure%20Blob%20Storage-333333?style=flat&logo=microsoft-azure&logoColor=0078D4" alt="Azure Blob Storage">
    <img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS&logoColor=F90" alt="AWS">
    <img src="https://img.shields.io/badge/-S3-333333?style=flat&logo=Amazon-S3&logoColor=F90" alt="S3">
    <img src="https://img.shields.io/badge/-EMR-333333?style=flat&logo=Amazon-AWS&logoColor=F90" alt="EMR">
@@ -51,30 +53,3 @@ I am a Data Analyst with a knack for turning data into insightful stories that c
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/mankabir-rai-58ab44160/) 
-[![Medium](https://img.shields.io/badge/-Medium-333333?style=flat&logo=medium)]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
